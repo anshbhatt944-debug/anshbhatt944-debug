@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ansh 👋
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💻 Learning C++, Data Structures & Algorithms
+- 🌐 Currently learning Full Stack Web Development
+- 🚀 Working towards Software Engineering Internships
+
+---
+
+## 🛠️ Tech Stack
+
+- C++
+- Git
+- GitHub
+
+---
+
+## 📈 Current Goals
+
+- ✅ Master C++
+- ✅ Solve DSA problems consistently
+- 🔄 Learn HTML, CSS & JavaScript
+- 🔄 Build Full Stack Projects
+
+---
+
+## 📂 Featured Repositories
+
+- 📘 **cpp-fundamentals**
+- 📗 **cpp-dsa**
+
+---
+
+⭐ Thanks for visiting my profile!## Hi there 👋
 
 <!--
 **anshbhatt944-debug/anshbhatt944-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
