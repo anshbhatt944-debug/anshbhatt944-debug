@@ -28,8 +28,10 @@
 
 ## 📂 Featured Repositories
 
-- 📘 **cpp-fundamentals**
+- 🌐 **web-dev-journey**
 - 📗 **cpp-dsa**
+- 📘 **cpp-fundamentals**
+
 
 ---
 
