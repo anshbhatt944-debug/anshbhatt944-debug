@@ -8,9 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-anshbhatt944%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshbhatt944@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Delhi%2C%20India-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshbhatt944-debug&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>
+
 
 ---
 
